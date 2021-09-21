@@ -1,4 +1,4 @@
-My name is **Ruben Persicot** and I am a french student pursuing Masters studies at the [Ecole des Ponts Paritech](https://www.ecoledesponts.fr/).
+My name is **Ruben Persicot** and I am a french student pursuing Masters studies at the [Ecole des Ponts Paritech](https://www.ecoledesponts.fr/en).
 
 - ⚡ Passionate about machine learning and conscious of its ever-growing potential, I am genuinely interested in applying statistical tools to solve physics problems. As of this matter I am broadening my knowledge on **Deep Learning and Reinforcement Learning (Tensorflow)**
 
@@ -6,7 +6,7 @@ My name is **Ruben Persicot** and I am a french student pursuing Masters studies
 
 - 🤝 I’m looking for a six month internship starting in January 2022.
 
-- 👨‍💻 All of my projects are available [here!](https://github.com/rubenpersicot)
+- 👨‍💻 All of my projects are available [here](https://github.com/rubenpersicot)!
 
 - 📫 How to reach me **persicot.ruben@gmail.com**
 
