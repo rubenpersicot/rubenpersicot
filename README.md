@@ -1,6 +1,6 @@
 My name is **Ruben Persicot** and I am a french student pursuing Masters studies at the [Ecole des Ponts Paritech](https://www.ecoledesponts.fr/en).
 
-- ⚡ If majoring in Mechanical Engineering allowed me to get a deep understanding of fluid mechanics and materials science, the curriculum I undertook provided me a solid background in statistics and applied mathematics. Passionate about machine learning and conscious of its ever-growing potential, I am genuinely interested in applying statistical tools to solve physics problems. As of this matter I am broadening my knowledge on **Deep Learning and Reinforcement Learning** and looking for new opportunities to strengthen my background on these inspiring subjects !
+- ⚡ Passionate about machine learning and conscious of its ever-growing potential, I am genuinely interested in applying statistical tools to solve complex problems. As of this matter I am broadening my knowledge on **Machine Learning and Deep Learning** and looking for new opportunities to strengthen my background on these inspiring subjects !
 
 - 🔭 I’m currently pursuing an internship at [WIND my ROOF](https://www.windmyroof.com/en/), a start-up located near Paris. As a software engineer, I developped a tool named [WIND my STUDY](https://github.com/rubenpersicot/WIND_my_STUDY) in order to simulate atmospheric flows within districts. Even though the project is hosted on a private repository, I would be more than happy to show you the operating software if you want me to. 
 
